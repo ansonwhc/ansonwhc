@@ -84,9 +84,6 @@
   Ansible, Terraform, Kubernetes -->
 </div>
 
-### :bowtie: Fun Fact:
-I'm learning <img src="https://user-images.githubusercontent.com/94448528/172817085-aae28648-920b-4e09-8c14-a254bff17ff0.png" height="30"/> <img src="https://user-images.githubusercontent.com/94448528/172816679-ed036a2d-32fc-42b5-94fd-cca24d2bca05.png" height="30"/> to make some games for fun! :laughing:
-
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -95,3 +92,16 @@ I'm learning <img src="https://user-images.githubusercontent.com/94448528/172817
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+### :fire:My Stats:
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonwhc&layout=compact&theme=vision-friendly-dark&hide=tex,html)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ansonwhc&theme=dark&hide_border=true&stroke=3CBCDD&dates=D4DDB4)](https://git.io/streak-stats)
+
+</div>
+
+
+### :bowtie: Fun Fact:
+I'm learning <img src="https://user-images.githubusercontent.com/94448528/172817085-aae28648-920b-4e09-8c14-a254bff17ff0.png" height="30"/> <img src="https://user-images.githubusercontent.com/94448528/172816679-ed036a2d-32fc-42b5-94fd-cca24d2bca05.png" height="30"/> to make some games for fun! :laughing:
+
