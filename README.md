@@ -15,7 +15,7 @@
 
 <h3>:man_technologist: About Me:</h3>
 
-- I am a Junior DevOps Consultant :computer:  
+- I am a DevOps Consultant :computer:  
 - Background in Mathematical Economics and Statistics :books:  
 - Experience in Finance :chart_with_upwards_trend: and Machine Learning :robot:
 
